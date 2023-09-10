@@ -1,0 +1,13 @@
+.countriesStyle {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+.visitedFlagStyle img {
+  width: 80px;
+  height: 50px;
+  margin: 5px;
+}
+.textCenter {
+  text-align: center;
+}

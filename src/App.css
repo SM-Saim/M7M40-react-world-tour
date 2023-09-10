@@ -3,3 +3,9 @@
   margin: 0 auto;
   padding: 2rem;
 }
+
+.headingColor {
+  color: rgb(5, 87, 180);
+  font-size: 35px;
+  text-align: center;
+}

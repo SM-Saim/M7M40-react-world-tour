@@ -4,7 +4,7 @@ import Countries from "./Components/Countries/Countries";
 function App() {
   return (
     <>
-      <h3>Vite + React</h3>
+      <h2 className="headingColor">React Awsome World Tour</h2>
       <Countries></Countries>
     </>
   );
